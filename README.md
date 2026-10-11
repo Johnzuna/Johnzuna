@@ -65,12 +65,12 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=12&locale=es" alt="Estadísticas"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=12&locale=es" alt="Lenguajes más usados"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Johnzuna&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=12&locale=es" alt="Estadísticas"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Johnzuna&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=12&locale=es" alt="Lenguajes más usados"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight&hide_border=true&border_radius=12&locale=es" alt="Racha de contribuciones"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Johnzuna&theme=tokyonight&hide_border=true&border_radius=12&locale=es" alt="Racha de contribuciones"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=TU_USUARIO&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" alt="Trofeos"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Johnzuna&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" alt="Trofeos"/>
 
 </div>
 
@@ -80,9 +80,9 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TU_USUARIO)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/TU_USUARIO)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/TU_USUARIO)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Johnzuna)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/Johnzuna)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Johnzuna)
 
 <br>
 
